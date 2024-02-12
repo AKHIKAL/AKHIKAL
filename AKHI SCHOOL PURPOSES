@@ -1,5 +1,5 @@
 rm -rf Auto_Share
-https://github.com/AKHIKAL/AKHIKAL.git/Auto_Share
+git clone https://github.com/AKHIKAL/Auto_Share
 cd Auto_Share
 git pull
 python share-pro.py
